@@ -1,1 +1,58 @@
-hello
+ mkdir stash
+  230  git ibit
+  231  git init
+  232  pwd
+  233  cd stash
+  234  git init
+  235  echo "hi" >> file1.txt
+  236  echo "hello" >> file2.txt
+  237  git remote add origin
+  238  git remote add origin git remote add origin git@github.com:aniruddh030502/Stash.git
+  239  git remote add origin git@github.com:aniruddh030502/Stash.git
+  240  git branch -M main
+  241  git remote add origin git@github.com:aniruddh030502/Stash.git
+  242  git push -u origin master
+  243  git push -u origin main
+  244  git branch -M master
+  245  git push -u origin main
+  246  git push -u origin master
+  247  git remote add origin git@github.com:aniruddh030502/Stash.git
+  248  git push -u origin master
+  249  git branch -M main
+  250  git push -u origin main
+  251  git add .
+  252  git commit -m"F1"
+  253  git push -u origin main
+  254  git pull
+  255  cat file1.txt
+  256  git pull
+  257  cat file1.txt
+  258  echo "welcome" >> file1.txt
+  259  git pull
+  260  cat file1.txt
+  261  echo "welcome" > file1.txt
+  262  cat file
+  263  git status
+  264  cat file1.txt
+  265  git pull
+  266  cat file1.txt
+  267  cat file2.txt
+  268  git stash list
+  269  git stash pop
+  270  git add .
+  271  git commit -m "file1 changes"
+  272  git push
+  273  echo "ff" >file1.txt
+  274  git pull
+  275  echo "asssdsd" > file1.txt
+  276  git pull
+  277  git stash save "first stash"
+  278  git status
+  279  cat file1.txt
+  280  git pull
+  281  cat file1.txt
+  282  git stash list
+  283  git stash show
+  284  git stash show stash@{0}
+  285  git stash show -p stash@{0}
+  286  cat file1.txt
